@@ -2,9 +2,9 @@
   "name": "@sleeep23/code-animation",
   "license": "MIT",
   "version": "0.0.2",
-  "main": "dist/index.js",
-  "module": "dist/index.mjs",
-  "types": "dist/index.d.ts",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
   "private": false,
   "scripts": {
     "dev": "vitest",
