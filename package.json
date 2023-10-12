@@ -1,5 +1,5 @@
 {
-  "name": "my-package",
+  "name": "@sleeep23/code-animation",
   "license": "MIT",
   "version": "0.0.1",
   "main": "dist/index.js",
